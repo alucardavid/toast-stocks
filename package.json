@@ -1,0 +1,16 @@
+{
+  "name": "toast-stocks",
+  "version": "1.0.0",
+  "description": "Show alerts in desktop",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "David Pereira",
+  "license": "ISC",
+  "dependencies": {
+    "node-notifier": "^5.4.0",
+    "win10-toast": "^0.1.0",
+    "yahoo-stocks": "^2.0.4"
+  }
+}
