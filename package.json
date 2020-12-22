@@ -9,7 +9,7 @@
   "author": "David Pereira",
   "license": "ISC",
   "dependencies": {
-    "node-notifier": "^5.4.0",
+    "node-notifier": "^8.0.1",
     "win10-toast": "^0.1.0",
     "yahoo-stocks": "^2.0.4"
   }
